@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  Автономный Roblox Lua-скрипт с интерфейсом в стиле Anuswaremware, собранный в один release-файл.
+  Автономный Roblox Lua-скрипт с интерфейсом в стиле Anusware, собранный в один release-файл.
 </p>
 
 
