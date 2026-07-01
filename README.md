@@ -11,9 +11,6 @@
   Автономный Roblox Lua-скрипт с интерфейсом в стиле Anuswaremware, собранный в один release-файл.
 </p>
 
-<p align="center">
-  <a href="./README.md">English Version</a>
-</p>
 
 ## Описание
 
